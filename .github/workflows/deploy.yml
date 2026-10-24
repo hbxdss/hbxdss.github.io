@@ -1,66 +1,53 @@
 name: 部署博客到 GitHub Pages
-
 on:
   push:
     branches: [main]
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: 📥 Checkout
         uses: actions/checkout@v4
-
       - name: 🗂️ 整理目录结构
         run: |
-          mkdir -p docs/.vuepress/styles docs/.vuepress/public
-          if [ -f "README.md" ] && [ ! -f "docs/README.md" ]; then mv README.md docs/README.md; fi
+          # 先移动文件（不预先 mkdir 目标，避免条件短路）
+          [ -f "README.md" ] && [ ! -f "docs/README.md" ] && mv README.md docs/README.md || true
           for dir in about friend-links posts; do
-            if [ -d "$dir" ] && [ ! -d "docs/$dir" ]; then mv "$dir" "docs/$dir"; fi
+            [ -d "$dir" ] && [ ! -d "docs/$dir" ] && mv "$dir" "docs/$dir" || true
           done
           for f in config.ts plume.config.ts client.ts; do
-            if [ -f "$f" ] && [ ! -f "docs/.vuepress/$f" ]; then mv "$f" "docs/.vuepress/$f"; fi
+            [ -f "$f" ] && [ ! -f "docs/.vuepress/$f" ] && mv "$f" "docs/.vuepress/$f" || true
           done
-          if [ -d "styles" ] && [ ! -d "docs/.vuepress/styles" ]; then mv styles docs/.vuepress/styles; fi
-          echo "=== 整理后 ===" && find . -not -path './.git/*' -maxdepth 4 | sort
-
       - name: ⚙️ pnpm
         uses: pnpm/action-setup@v4
         with: { version: 12 }
-
-      - name: 🟢 Node 22
+      - name: 🎳 Node 22
         uses: actions/setup-node@v4
         with: { node-version: 22, cache: pnpm }
-
       - name: 📦 安装依赖
         run: pnpm install --frozen-lockfile
-
       - name: 🏗️ 构建
         env:
           BASE: /
           SITE_HOSTNAME: https://hbxdss.github.io
         run: pnpm run docs:build
-
       - name: 📤 上传产物
         uses: actions/upload-pages-artifact@v3
         with: { path: docs/.vuepress/dist }
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-    steps:
-      - name: 🚀 部署
-        id: deployment
-        uses: actions/deploy-pages@v4
+deploy:
+  needs: build
+  runs-on: ubuntu-latest
+  environment:
+    name: github-pages
+  steps:
+    - name: 🚀 部署
+      id: deployment
+      uses: actions/deploy-pages@v4
