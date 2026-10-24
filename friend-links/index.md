@@ -9,7 +9,7 @@ groups:
       - name: 科技酱的小站
         link: https://docs.asoe.cn
         avatar: https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/TechSauce-Logo.webp
-        desc: 此博客由科技酱帮助搭建，感谢！
+        desc: 此博客由科技酱帮助搭建
         organization: 科技酱
       - name: 踏浪的小说站
         link: https://talangs.cn
