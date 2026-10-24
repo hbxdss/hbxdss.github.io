@@ -1,0 +1,96 @@
+name: 部署博客到 GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:  # 允许手动点按钮触发
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout 代码
+        uses: actions/checkout@v4
+
+      - name: 🗂️ 整理目录结构
+        run: |
+          # 确保 docs/ 和 docs/.vuepress/ 存在
+          mkdir -p docs/.vuepress/styles docs/.vuepress/public
+          # 如果 README.md 在根目录，移到 docs/ 下
+          if [ -f "README.md" ] && [ ! -f "docs/README.md" ]; then
+            mv README.md docs/README.md
+          fi
+          # 移动 md 内容目录
+          for dir in about friend-links posts public; do
+            if [ -d "$dir" ] && [ ! -d "docs/$dir" ]; then
+              mv "$dir" "docs/$dir"
+            fi
+          done
+          # .vuepress 配置文件
+          for f in config.ts plume.config.ts client.ts; do
+            if [ -f "$f" ] && [ ! -f "docs/.vuepress/$f" ]; then
+              mv "$f" "docs/.vuepress/$f"
+            fi
+          done
+          # styles 目录
+          if [ -d "styles" ] && [ ! -d "docs/.vuepress/styles" ]; then
+            mv styles docs/.vuepress/styles
+          fi
+          # .vuepress/public 里的资源文件
+          for f in favicon.svg og-image.png robots.txt avatar.jpg rss.xml; do
+            if [ -f "public/$f" ] && [ ! -f "docs/.vuepress/public/$f" ]; then
+              cp "public/$f" "docs/.vuepress/public/$f" 2>/dev/null || true
+            fi
+          done
+          echo "=== 整理后目录结构 ==="
+          find . -not -path './.git/*' -not -path './node_modules/*' -maxdepth 4 | sort
+
+      - name: ⚙️ 安装 pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 12
+
+      - name: 🟢 设置 Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: 📦 安装依赖
+        run: pnpm install --frozen-lockfile
+
+      - name: 🏗️ 构建 + 自动设置 BASE
+        id: build
+        env:
+          # 仓库名是 username.github.io → BASE=/ 否则 BASE=/仓库名/
+          BASE: ${{ endsWith(github.event.repository.name, '.github.io') && '/' || format('/{0}/', github.event.repository.name) }}
+          SITE_HOSTNAME: ${{ format('https://{0}.github.io{1}', github.repository_owner, endsWith(github.event.repository.name, '.github.io') && '' || format('/{0}', github.event.repository.name)) }}
+        run: |
+          echo "BASE=$BASE"
+          echo "SITE_HOSTNAME=$SITE_HOSTNAME"
+          pnpm run docs:build
+
+      - name: 📤 上传构建产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/.vuepress/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 🚀 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
