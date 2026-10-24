@@ -6,7 +6,7 @@ description: 睡神的朋友们
 groups:
   - title: 推荐
     list:
-      - name: 科技酱的小站
+      - name: 科技酱
         link: https://docs.asoe.cn
         avatar: https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/TechSauce-Logo.webp
         desc: 此博客由科技酱帮助搭建
