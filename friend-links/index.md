@@ -1,6 +1,6 @@
 ---
 pageLayout: friends
-permalink: /friend-links/
+permalink: /friends/
 title: 友情链接
 description: 睡神的朋友们
 groups:
