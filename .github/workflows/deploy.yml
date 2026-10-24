@@ -1,0 +1,77 @@
+name: 部署博客到 GitHub Pages
+
+# ============================================
+# 自动部署流程：push 到 main 或手动触发后，
+# 构建产物并发布到 GitHub Pages
+#
+# 仓库地址规则：
+#   • 如果仓库名是 username.github.io → 访问根域名
+#     BASE=/   SITE_HOSTNAME=https://username.github.io
+#   • 如果仓库名是 blog → 访问子路径
+#     BASE=/blog/   SITE_HOSTNAME=https://username.github.io/blog
+#
+# 首次部署前需要：
+#   GitHub → Settings → Pages → Source 选 "GitHub Actions"
+# ============================================
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:  # 允许手动点按钮触发
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout 代码
+        uses: actions/checkout@v4
+
+      - name: ⚙️ 安装 pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 12
+
+      - name: 🟢 设置 Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: 📦 安装依赖
+        run: pnpm install --frozen-lockfile
+
+      - name: 🏗️ 构建 + 自动设置 BASE
+        id: build
+        env:
+          # 仓库名是 username.github.io → BASE=/ 否则 BASE=/仓库名/
+          BASE: ${{ endsWith(github.event.repository.name, '.github.io') && '/' || format('/{0}/', github.event.repository.name) }}
+          SITE_HOSTNAME: ${{ format('https://{0}.github.io{1}', github.repository_owner, endsWith(github.event.repository.name, '.github.io') && '' || format('/{0}', github.event.repository.name)) }}
+        run: |
+          echo "BASE=$BASE"
+          echo "SITE_HOSTNAME=$SITE_HOSTNAME"
+          pnpm run docs:build
+
+      - name: 📤 上传构建产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/.vuepress/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 🚀 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

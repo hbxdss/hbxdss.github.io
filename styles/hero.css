@@ -1,0 +1,418 @@
+/* =========================================================
+   全局主题覆盖 — 让导航/Hero/卡片/颜色系统统一起来
+   ========================================================= */
+
+/* --- 1. 重置品牌色为 Hero 同款紫蓝 --- */
+:root,
+html.light,
+html.dark {
+  --vp-c-brand-1: #7c5cff;
+  --vp-c-brand-2: #a78bfa;
+  --vp-c-brand-3: #c4b5fd;
+  --vp-c-brand-soft: rgba(124, 92, 255, 0.15);
+
+  --vp-c-purple-1: #a78bfa;
+  --vp-c-purple-2: #7c5cff;
+  --vp-c-purple-3: #6d28d9;
+}
+
+/* --- 2. Hero 区域：标题/副标题/文字 --- */
+:root {
+  --vp-bg-home-hero-name: linear-gradient(315deg, #a78bfa 0%, #60a5fa 45%, #f0abfc 100%);
+  --vp-c-home-hero-tagline: rgba(245, 243, 255, 0.92);
+  --vp-c-home-hero-text: rgba(226, 232, 240, 0.82);
+}
+
+html.dark {
+  --vp-bg-home-hero-name: linear-gradient(315deg, #c4b5fd 0%, #7dd3fc 45%, #f9a8d4 100%);
+  --vp-c-home-hero-tagline: rgba(245, 243, 255, 0.92);
+  --vp-c-home-hero-text: rgba(226, 232, 240, 0.82);
+}
+
+/* Hero 标题字体（比 plume 默认稍克制一些） */
+.vp-home-hero .hero-name {
+  font-size: clamp(36px, 5.4vw, 72px) !important;
+  letter-spacing: -0.02em;
+  filter: drop-shadow(0 4px 20px rgba(0, 0, 0, 0.45));
+}
+
+.vp-home-hero .hero-tagline {
+  font-size: clamp(16px, 2.2vw, 24px) !important;
+  font-weight: 500;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.55);
+}
+
+.vp-home-hero .hero-text {
+  font-size: clamp(13px, 1.5vw, 17px) !important;
+  font-weight: 400;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.55);
+  margin-top: 14px;
+}
+
+/* Hero 上的半透明暗色遮罩层 —— 让任何背景图都适配 */
+.vp-home-hero.full::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.15) 40%, rgba(0, 0, 0, 0.45) 100%);
+  z-index: 0;
+}
+
+/* hero-content 放到遮罩层之上 */
+.vp-home-hero .hero-container { z-index: 1; }
+
+/* Hero 按钮：毛玻璃 + 紫系 */
+.vp-home-hero .actions .vp-button.brand {
+  background: rgba(124, 92, 255, 0.85) !important;
+  border-color: rgba(167, 139, 250, 0.55) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 6px 24px -6px rgba(124, 92, 255, 0.65);
+  font-weight: 500;
+}
+.vp-home-hero .actions .vp-button.brand:hover {
+  background: rgba(124, 92, 255, 1) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 32px -8px rgba(124, 92, 255, 0.75);
+}
+
+.vp-home-hero .actions .vp-button.alt {
+  background: rgba(255, 255, 255, 0.12) !important;
+  border-color: rgba(255, 255, 255, 0.4) !important;
+  color: #fff !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  font-weight: 500;
+}
+.vp-home-hero .actions .vp-button.alt:hover {
+  background: rgba(255, 255, 255, 0.22) !important;
+  transform: translateY(-2px);
+}
+
+/* --- 3. 导航栏 —— 在 full hero 上变为透明毛玻璃 --- */
+.vp-home-hero.full.first ~ .vp-nav,
+.vp-layout:has(.vp-home-hero.full.first) .vp-navbar {
+  background: rgba(0, 0, 0, 0.28) !important;
+  backdrop-filter: blur(12px) saturate(1.2);
+  -webkit-backdrop-filter: blur(12px) saturate(1.2);
+  border-bottom-color: rgba(255, 255, 255, 0.08) !important;
+  transition: background 0.3s ease;
+}
+
+/* 导航栏文字在 hero 上变白色 */
+.vp-layout:has(.vp-home-hero.full.first) .vp-navbar,
+.vp-layout:has(.vp-home-hero.full.first) .vp-navbar a,
+.vp-layout:has(.vp-home-hero.full.first) .vp-navbar .title,
+.vp-layout:has(.vp-home-hero.full.first) .vp-navbar .brand,
+.vp-layout:has(.vp-home-hero.full.first) .vp-navbar-menu-link {
+  color: #f5f3ff !important;
+}
+.vp-layout:has(.vp-home-hero.full.first) .vp-navbar-menu-link:hover {
+  color: #fff !important;
+  background: rgba(255, 255, 255, 0.12) !important;
+}
+.vp-layout:has(.vp-home-hero.full.first) .vp-navbar-menu-link.active {
+  color: #fff !important;
+  background: rgba(255, 255, 255, 0.18) !important;
+}
+
+/* --- 3.5 搜索按钮：纯 CSS 修 --- */
+/* 1) 胶囊外观 */
+.vp-navbar-search.search .mini-search-button {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  gap: 10px !important;
+  min-width: 160px;
+  height: 38px;
+  padding: 0 14px;
+  border-radius: 10px !important;
+  background: rgba(255, 255, 255, 0.12) !important;
+  border: 1px solid rgba(255, 255, 255, 0.22) !important;
+  color: rgba(255, 255, 255, 0.82) !important;
+  font-size: 13px;
+  transition: background .2s ease, border-color .2s ease, transform .15s ease;
+  cursor: pointer;
+}
+.vp-navbar-search.search .mini-search-button:hover {
+  background: rgba(255, 255, 255, 0.2) !important;
+  border-color: rgba(255, 255, 255, 0.4) !important;
+  transform: translateY(-1px);
+}
+
+/* 2) 按钮内部：图标 + 文字（group 一起） + 靠右的快捷键 */
+.vp-navbar-search.search .mini-search-button-container {
+  display: flex !important;
+  align-items: center;
+  gap: 8px;
+  width: auto !important;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.vp-navbar-search.search .mini-search-search-icon {
+  width: 16px; height: 16px;
+  flex-shrink: 0;
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+.vp-navbar-search.search .mini-search-button-placeholder {
+  white-space: nowrap;
+  color: rgba(255, 255, 255, 0.6);
+}
+.vp-navbar-search.search .mini-search-button-keys {
+  display: inline-flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  margin-left: auto;
+  align-items: center;
+  gap: 2px;
+  flex-shrink: 0;
+}
+
+/* 3) 隐藏 plume 渲染的 "空" KBD（Windows 上第一个 KBD 没内容或只有空白） */
+.vp-navbar-search.search .mini-search-button-key:empty,
+.vp-navbar-search.search .mini-search-button-key:not(:has(*)) {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: 0 !important;
+}
+.vp-navbar-search.search .mini-search-button-key {
+  background: rgba(255, 255, 255, 0.18) !important;
+  border: 1px solid rgba(255, 255, 255, 0.28) !important;
+  border-radius: 5px;
+  font-size: 11px;
+  font-family: ui-monospace, monospace;
+  color: rgba(255, 255, 255, 0.9);
+  padding: 2px 7px;
+  line-height: 1;
+  height: 18px;
+  display: inline-flex;
+  align-items: center;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset;
+  font-weight: 500;
+}
+
+/* 4) 非 Hero 页面：轻量胶囊 */
+.vp-layout:not(:has(.vp-home-hero.full.first)) .vp-navbar-search.search .mini-search-button {
+  background: transparent !important;
+  border-color: transparent !important;
+  color: var(--vp-c-text-2) !important;
+  height: 36px;
+  min-width: 140px;
+  padding: 0 12px;
+  gap: 8px !important;
+}
+.vp-layout:not(:has(.vp-home-hero.full.first)) .vp-navbar-search.search .mini-search-button:hover {
+  background: var(--vp-c-bg-soft) !important;
+  border-color: var(--vp-c-border) !important;
+  transform: none;
+}
+.vp-layout:not(:has(.vp-home-hero.full.first)) .vp-navbar-search.search .mini-search-button-placeholder {
+  color: var(--vp-c-text-3);
+}
+.vp-layout:not(:has(.vp-home-hero.full.first)) .vp-navbar-search.search .mini-search-search-icon {
+  color: var(--vp-c-text-2) !important;
+}
+.vp-layout:not(:has(.vp-home-hero.full.first)) .vp-navbar-search.search .mini-search-button-key {
+  background: var(--vp-c-bg-soft) !important;
+  border-color: var(--vp-c-border) !important;
+  color: var(--vp-c-text-3);
+}
+
+/* 5) 外层 search-wrapper 不套胶囊背景（按钮本身就是背景） */
+.vp-navbar-search.search .search-wrapper {
+  background: transparent !important;
+  border: none !important;
+}
+.vp-navbar-search.search {
+  background: transparent !important;
+  border: none !important;
+  height: 38px;
+}
+
+/* --- 3.6 搜索弹窗：完整毛玻璃 + 紫系 --- */
+/* 遮罩层 - plume 默认 .backdrop */
+.VPLocalSearchBox .backdrop {
+  background: rgba(0, 0, 0, 0.55) !important;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+/* 弹窗主体 - plume 默认 .shell */
+.VPLocalSearchBox .shell {
+  background: rgba(22, 19, 42, 0.78) !important;
+  backdrop-filter: blur(32px) saturate(1.2) !important;
+  -webkit-backdrop-filter: blur(32px) saturate(1.2) !important;
+  border: 1px solid rgba(167, 139, 250, 0.25) !important;
+  border-radius: 18px !important;
+  box-shadow:
+    0 32px 64px -16px rgba(0, 0, 0, 0.55),
+    0 0 0 1px rgba(255, 255, 255, 0.04) inset !important;
+  color: #e6e1f5 !important;
+  max-width: 720px !important;
+  margin: 10vh auto !important;
+  overflow: hidden;
+}
+
+/* 搜索输入框 */
+.VPLocalSearchBox .search-bar {
+  padding: 18px 20px 14px !important;
+  border-bottom: 1px solid rgba(167, 139, 250, 0.18);
+}
+.VPLocalSearchBox input.search-input {
+  background: rgba(255, 255, 255, 0.06) !important;
+  border: 1px solid rgba(167, 139, 250, 0.22) !important;
+  border-radius: 12px !important;
+  color: #fff !important;
+  font-size: 16px !important;
+  padding: 10px 16px !important;
+  transition: border-color .2s ease, box-shadow .2s ease, background .2s ease;
+  box-shadow: none !important;
+}
+.VPLocalSearchBox input.search-input::placeholder {
+  color: rgba(230, 225, 245, 0.45) !important;
+}
+.VPLocalSearchBox input.search-input:focus {
+  border-color: rgba(167, 139, 250, 0.65) !important;
+  background: rgba(255, 255, 255, 0.1) !important;
+  box-shadow: 0 0 0 4px rgba(124, 92, 255, 0.18) !important;
+  outline: none !important;
+}
+
+/* 输入框内清除按钮 */
+.VPLocalSearchBox .clear-button {
+  color: rgba(230, 225, 245, 0.7) !important;
+  border-radius: 8px !important;
+}
+.VPLocalSearchBox .clear-button:hover {
+  background: rgba(255, 255, 255, 0.12) !important;
+  color: #fff !important;
+}
+
+/* 返回按钮 */
+.VPLocalSearchBox .back-button {
+  color: rgba(230, 225, 245, 0.8) !important;
+  border-radius: 8px !important;
+}
+.VPLocalSearchBox .back-button:hover {
+  background: rgba(255, 255, 255, 0.12) !important;
+}
+
+/* 搜索结果列表 */
+.VPLocalSearchBox .results {
+  padding: 10px !important;
+  color: #e6e1f5;
+}
+.VPLocalSearchBox .results .list-item {
+  border-radius: 10px !important;
+  padding: 10px 14px !important;
+  background: transparent !important;
+  transition: background .15s ease;
+}
+.VPLocalSearchBox .results .list-item:hover,
+.VPLocalSearchBox .results .list-item.selected {
+  background: rgba(124, 92, 255, 0.22) !important;
+}
+.VPLocalSearchBox .results .title,
+.VPLocalSearchBox .results .title a {
+  color: #fff !important;
+  font-weight: 500 !important;
+}
+.VPLocalSearchBox .results .text,
+.VPLocalSearchBox .results .text * {
+  color: rgba(230, 225, 245, 0.65) !important;
+}
+.VPLocalSearchBox .results .highlight {
+  color: #fff !important;
+  background: rgba(124, 92, 255, 0.55) !important;
+  border-radius: 3px;
+  padding: 0 2px;
+}
+.VPLocalSearchBox .results .group {
+  color: rgba(230, 225, 245, 0.55) !important;
+  font-size: 12px !important;
+  padding: 12px 14px 4px !important;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* 空结果状态 */
+.VPLocalSearchBox .empty {
+  color: rgba(230, 225, 245, 0.55) !important;
+  padding: 24px !important;
+  text-align: center;
+}
+
+/* 底部快捷键提示 */
+.VPLocalSearchBox .search-keyboard-shortcuts {
+  border-top: 1px solid rgba(167, 139, 250, 0.18) !important;
+  background: rgba(0, 0, 0, 0.18) !important;
+  padding: 10px 20px !important;
+}
+.VPLocalSearchBox .search-keyboard-shortcuts,
+.VPLocalSearchBox .search-keyboard-shortcuts * {
+  color: rgba(230, 225, 245, 0.6) !important;
+  font-size: 12px !important;
+}
+.VPLocalSearchBox .search-keyboard-shortcuts kbd {
+  background: rgba(255, 255, 255, 0.12) !important;
+  border: 1px solid rgba(255, 255, 255, 0.25) !important;
+  border-radius: 5px !important;
+  color: rgba(255, 255, 255, 0.9) !important;
+  padding: 1px 6px !important;
+  font-family: ui-monospace, monospace;
+  font-size: 11px !important;
+}
+
+/* --- 3.7 非 hero 页面上的导航栏搜索按钮也轻微胶囊化 --- */
+.vp-navbar-search.search .mini-search-button {
+  min-width: 140px;
+  height: 36px;
+  padding: 0 12px;
+  border-radius: 8px !important;
+  transition: background .2s ease;
+}
+.vp-navbar-search.search .mini-search-button:hover {
+  background: var(--vp-c-bg-soft) !important;
+}
+.vp-navbar-search.search .mini-search-button-placeholder {
+  font-size: 13px;
+  color: var(--vp-c-text-3);
+}
+.vp-navbar-search.search .mini-search-button-keys {
+  gap: 2px;
+}
+.vp-navbar-search.search .mini-search-button-key {
+  font-size: 11px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-border);
+  border-radius: 4px;
+  padding: 1px 5px;
+  color: var(--vp-c-text-3);
+}
+
+/* --- 4. Features 卡片 --- */
+.vp-home-feature {
+  border-radius: 16px !important;
+  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+}
+.vp-home-feature:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px -16px rgba(124, 92, 255, 0.35);
+  border-color: rgba(124, 92, 255, 0.5) !important;
+}
+
+/* --- 5. 快速导航卡片（自定义） --- */
+.vp-home-card:hover .icon { transform: scale(1.08); }
+.vp-home-card .icon { transition: transform .2s ease; display: inline-block; }
+
+/* --- 6. 移动端 hero 适配 --- */
+@media (max-width: 768px) {
+  .vp-home-hero .hero-name { font-size: 40px !important; }
+  .vp-home-hero .hero-tagline { font-size: 18px !important; }
+  .vp-home-hero .hero-text { font-size: 14px !important; }
+}

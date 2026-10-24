@@ -1,0 +1,25 @@
+{
+  "name": "plume-blog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "new:post": "node scripts/new-post.mjs",
+    "docs:dev": "node scripts/gen-home.mjs && vuepress dev docs",
+    "docs:build": "node scripts/gen-home.mjs && vuepress build docs && node scripts/fix-robots.mjs && node scripts/fix-sitemap.mjs && node scripts/fix-spa.mjs && node scripts/gen-rss.mjs",
+    "docs:preview": "vuepress preview docs"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.31",
+    "vuepress-theme-plume": "1.0.0-rc.214",
+    "@vuepress/bundler-vite": "2.0.0-rc.31"
+  },
+  "devDependencies": {
+    "typescript": "~5.8.3",
+    "gray-matter": "^4.0.3"
+  },
+  "engines": {
+    "node": "^20.19.0 || >= 22.0.0"
+  }
+}

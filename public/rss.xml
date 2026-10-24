@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>喊不醒的睡神</title>
+    <link>https://sleeping-god.example.com</link>
+    <description>苟日睡，日日睡，又日睡</description>
+    <language>zh-CN</language>
+    <copyright>© 喊不醒的睡神</copyright>
+    <ttl>60</ttl>
+    <atom:link href="https://sleeping-god.example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 24 Oct 2026 03:17:37 GMT</lastBuildDate>
+    <item>
+      <title>VuePress + Plume 主题搭建全流程指南</title>
+      <link>https://sleeping-god.example.com/posts/8pksazqm/</link>
+      <guid isPermaLink="true">https://sleeping-god.example.com/posts/8pksazqm/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <description>从零到一，手把手带你用 VuePress 2 + Plume 主题搭建一个现代化的个人博客，包含 SEO、Sitemap、RSS、友情链接、关于页面等全要素。</description>
+      <category>VuePress</category>
+      <category>Plume</category>
+      <category>博客</category>
+      <category>教程</category>
+    </item>
+    <item>
+      <title>TypeScript 类型体操入门</title>
+      <link>https://sleeping-god.example.com/posts/7vk3vma6/</link>
+      <guid isPermaLink="true">https://sleeping-god.example.com/posts/7vk3vma6/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>从基础到高阶，带你一步步掌握 TypeScript 的类型操作技巧，解锁类型体操的奥秘。</description>
+      <category>TypeScript</category>
+      <category>类型</category>
+      <category>前端</category>
+    </item>
+    <item>
+      <title>写给初学者的 Vite 原理</title>
+      <link>https://sleeping-god.example.com/posts/6i4161t1/</link>
+      <guid isPermaLink="true">https://sleeping-god.example.com/posts/6i4161t1/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Vite 为什么这么快？esbuild、Rollup、ESM 各自扮演什么角色？一文带你看懂 Vite 的核心架构。</description>
+      <category>Vite</category>
+      <category>工程化</category>
+      <category>前端</category>
+    </item>
+  </channel>
+</rss>
