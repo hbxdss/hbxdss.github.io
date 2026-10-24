@@ -13,7 +13,7 @@ groups:
         organization: 科技酱
       - name: 踏浪的小说站
         link: https://talangs.cn
-        avatar: https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/645feec8609a64d2955a68074df982cc_720.jpg
+        avatar:https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/645feec8609a64d2955a68074df982cc_720.jpg
         desc: 一个可以发布和阅读小说的小天地~
         organization: 踏浪
 createTime: 2026/10/23 23:52:31
