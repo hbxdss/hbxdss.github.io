@@ -37,9 +37,14 @@ if (!fs.existsSync(distDir)) {
 }
 
 // 读取所有文章
-const postFiles = fs.existsSync(postsDir)
-  ? fs.readdirSync(postsDir).filter(f => f.endsWith('.md'))
-  : []
+const postFiles = []
+if (fs.existsSync(postsDir)) {
+  for (const entry of fs.readdirSync(postsDir, { withFileTypes: true })) {
+    if (entry.name.startsWith('_')) continue
+    if (entry.isFile() && entry.name.endsWith('.md')) postFiles.push(entry.name)
+    else if (entry.isDirectory() && fs.existsSync(path.join(postsDir, entry.name, 'index.md'))) postFiles.push(path.join(entry.name, 'index.md'))
+  }
+}
 
 const posts = postFiles
   .map(file => {
@@ -47,7 +52,9 @@ const posts = postFiles
     const { data, content } = matter(raw)
     const date = data.date ? new Date(data.date) : new Date()
     // 用 permalink 构建绝对 URL
-    const permalink = data.permalink || `/posts/${path.basename(file, '.md')}/`
+    const permalink = data.permalink || (file.endsWith('index.md')
+      ? `/posts/${path.basename(dirname(file))}/`
+      : `/posts/${path.basename(file, '.md')}/`)
     // permalink 可能是 /posts/xxx/，如果 BASE 不是 / 且不是以 BASE 开头，需要补
     let absPath = permalink
     if (BASE !== '/' && !absPath.startsWith(BASE)) {

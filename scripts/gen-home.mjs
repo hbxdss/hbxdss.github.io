@@ -22,12 +22,16 @@ function pickEmoji(title, tags = []) {
 
 function loadPosts(n = 5) {
   if (!existsSync(POSTS_DIR)) return []
-  return readdirSync(POSTS_DIR)
-    .filter(f => f.endsWith('.md') && !f.startsWith('_'))
-    .map(file => {
-      const raw = readFileSync(resolve(POSTS_DIR, file), 'utf-8')
-      const { data } = matter(raw)
-      const slug = file.replace(/\.md$/, '')
+  const files = []
+  for (const entry of readdirSync(POSTS_DIR, { withFileTypes: true })) {
+    if (entry.name.startsWith('_')) continue
+    if (entry.isFile() && entry.name.endsWith('.md')) files.push(entry.name)
+    else if (entry.isDirectory() && existsSync(resolve(POSTS_DIR, entry.name, 'index.md'))) files.push(`${entry.name}/index.md`)
+  }
+  return files.map(file => {
+    const raw = readFileSync(resolve(POSTS_DIR, file), 'utf-8')
+    const { data } = matter(raw)
+    const slug = file.endsWith('index.md') ? file.replace(/\/index\.md$/, '') : file.replace(/\.md$/, '')
       const date = data.date ? new Date(data.date).toISOString().slice(0, 10) : ''
       return {
         title: String(data.title ?? slug),
@@ -52,7 +56,7 @@ ${posts.map(p => `  <li><a href="${p.path}">${p.emoji} ${p.title}</a><span class
 let readme = readFileSync(README, 'utf-8')
 const before = readme.length
 readme = readme.replace(
-  /<RecentPosts\b[^>]*>[\s\S]*?<\/RecentPosts>|<RecentPosts\b[^>]*\/?>/g,
+  /<RecentPosts\b[^>]*>[\s\S]*?<\/RecentPosts>|<RecentPosts\b[^>]*\/?>|<ul class="vp-recent-posts">[\s\S]*?<\/ul>/g,
   listHtml
 )
 const after = readme.length
