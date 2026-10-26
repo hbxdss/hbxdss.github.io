@@ -3,6 +3,7 @@ title: "如何白嫖一个二级域名并托管到Cloudflare"
 date: 2026-10-01T06:08:20Z
 createTime: 2026/10/01 14:08:20
 author: 喊不醒的睡神
+permalink: /posts/free-cloudflare-subdomain/
 ---
 
 # 注册账号

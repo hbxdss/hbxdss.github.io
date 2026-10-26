@@ -3,6 +3,7 @@ title: "再有公网IP的情况下，光猫不桥接情况下进行公网访问"
 date: 2026-08-16T04:00:00Z
 createTime: 2026/08/16 12:00:00
 author: 喊不醒的睡神
+permalink: /posts/public-access-without-router-bridge/
 ---
 
 首先把 NAS 接入光猫，连接完后顺便把光猫背面的贴纸拍张照打开光猫管理后台一般是这个👇192.168.1.1接下来以我的电信光猫为例

@@ -3,6 +3,7 @@ title: "飞牛NAS备用分享链接测试"
 date: 2026-05-16T10:56:00Z
 createTime: 2026/05/16 18:56:00
 author: 喊不醒的睡神
+permalink: /posts/fnos-alternative-share-link/
 ---
 
 # 喜报！

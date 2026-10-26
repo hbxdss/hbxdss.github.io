@@ -3,6 +3,7 @@ title: "猜猜你电脑里有多少个，浏览器内核的应用"
 date: 2026-05-03T12:06:36Z
 createTime: 2026/05/03 20:06:36
 author: 喊不醒的睡神
+permalink: /posts/browser-engine-apps-count/
 ---
 
 # 情节导入

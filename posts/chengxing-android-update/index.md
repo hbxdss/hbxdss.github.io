@@ -5,6 +5,7 @@ createTime: 2026/05/16 08:00:00
 tags:
   - 第三方
 author: 喊不醒的睡神
+permalink: /posts/chengxing-android-update/
 ---
 
 
