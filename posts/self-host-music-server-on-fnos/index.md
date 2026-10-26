@@ -1,0 +1,123 @@
+---
+title: "在飞牛NAS部署私人音乐服务器"
+date: 2026-06-28T14:30:00Z
+author: 喊不醒的睡神
+---
+
+本次部署私人音乐服务器用的应用是道理鱼音乐
+
+# 安装
+
+打开应用中心![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 110625.png)选择影音娱乐![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 110813.png)选择道鲤鱼音乐 NEW![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 112816.png)选择安装![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 113105.png)现在就是无尽的等待等待到弹出这个![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 113403.png)点击我接受许可协议的条款，然后下一步输入一个没被占用的端口![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 113607.png)下一步，又是无尽的等待到这个页面，点击打开![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 113831.png)到这个页面![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 113922.png)更具它的流程走来到这个页面，可以看到我的音乐库家徒四壁![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 114259.png)把你下载的音乐上传到 NAS（其实不止音乐，还有音乐视频等）我这里准备了一些音乐和音乐视频（MV）可供大家下载。
+
+# 音乐下载软件下载
+
+我现在给大家推荐一款音乐下载软件（仅安卓可用）
+
+## 蓝奏云下载
+
+<https://hbxdss.lanzouw.com/icrOd3sdnnij>密码:hbxdss
+
+## 123云盘下载
+
+### 链接下载
+
+<https://1859943259.share.123865.com/123pan/emQzvd-x10Sv>
+
+### 扫码下载
+
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/image_1781929485031.jpg)
+
+## 程星资源库下载
+
+[Fly 音乐 -Plus\_v1.2.8\_ 纯净版.zip](https://gitee.com/hbxdss/temporary-warehouse/releases/download/halo-attachments-v1/Fly音乐-Plus_v1.2.8_纯净版.zip)
+
+## GitHub下载（直链）
+
+<https://github.com/hbxdss/daoliyu-music-file/releases/download/下载/Fly.-Plus_v1.2.8_.apk>
+
+# 音乐刮削器下载
+
+我现在给大家推荐一款音乐刮削器软件（仅 windows 电脑可用）
+
+## 蓝奏云下载
+
+<https://hbxdss.lanzouw.com/i1pD33sem7lg>
+密码:hbxdss
+
+## 123云盘
+
+### 链接下载
+
+<https://1859943259.share.123865.com/123pan/emQzvd-eGZlv>
+
+### 二维码下载
+
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/image-oVgJ.png)
+
+## 程星资源库下载
+
+[MusicTag v1.0.9.0.zip](https://gitee.com/hbxdss/temporary-warehouse/releases/download/halo-attachments-v1/MusicTag v1.0.9.0.zip)
+
+## GitHub下载（直链）
+
+<https://github.com/hbxdss/daoliyu-music-file/releases/download/下载/MusicTag.v1.0.9.0.zip>
+
+# 音乐刮削器使用
+
+解压后打开 MusicTag.exe![屏幕截图 2026-06-22 192110.png](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-22 192110.png)
+
+## 改变工作目录
+
+点击我箭头指的位置，选择自己音乐存放的目录![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-22 192124.png)此时使你的电脑处于联网状态按下键盘商店 Ctrl 和 A 键，全选音乐![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-22 193715.png)点击我箭头指的位置，设置刮削![屏幕截图 2026-06-22 193815.png](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-22 193815.png)点击这两个按钮![屏幕截图 2026-06-22 193949.png](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-22 193949.png)联网搜索线程数可酌情增加。我这里直接拉满！点击确认，开始刮削![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-22 194044.png)刮削完了你会看到提示![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-22 194149.png)
+
+# 设置文件夹访问权限
+
+将音乐上传完了后，鼠标右键点击道理鱼音乐在桌面的图标![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 125427.png)选择管理应用![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 125507.png)选择应用设置![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 125654.png)把你传的音乐等媒体文件夹改成允许访问我的文件夹名是 daoliyu![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 125924.png)点击确定![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 130001.png)
+
+# 添加音乐
+
+来到道理鱼音乐，点击头像![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 130119.png)点击多媒体库![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 130144.png)点击添加媒体![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 130227.png)选择自己的路径![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 130318.png)点添加路径![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 130833.png)点击扫描全部![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-20 130342.png)
+
+# 成果展示
+
+你会看到多了很多
+
+![](http://114.66.11.148:18090/upload/屏幕截图 2026-06-20 130956.png)
+
+![](http://114.66.11.148:18090/upload/屏幕截图 2026-06-20 131049.png)
+
+![](http://114.66.11.148:18090/upload/屏幕截图 2026-06-20 131101.png)
+
+![](http://114.66.11.148:18090/upload/屏幕截图 2026-06-20 131110.png)
+
+# 我的音乐&MV分享
+
+我自己的音乐 &MV 分享
+
+## 仅音乐
+
+蓝奏云：<https://hbxdss.lanzouw.com/b01d70xfwd>
+密码:hbxdss123 云盘：<https://1859943259.share.123865.com/123pan/emQzvd-o4alv>
+
+## 仅MV
+
+123 云盘：<https://1859943259.share.123865.com/123pan/emQzvd-yGZlv>
+
+## 音乐&MV
+
+123 云盘：<https://1859943259.share.123865.com/123pan/emQzvd-m4alv>
+
+# 附录
+
+## 我分享的GitHub下载慢解决方法
+
+其实我给大家分享的是 GitHub 的 releases 下载链接比较慢解决方法：打开这个链接[hbxdss/daoliyu-music-file: 这是一个下载仓库](https://github.com/hbxdss/daoliyu-music-file)点击”软件下载“![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-22 195456.png)![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-22 195605.png)这里有两个文件。第一个是音乐下载器，第二个是音乐刮削器。你要下那个点哪个我已第一个为例打开后点击下载图标![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/屏幕截图 2026-06-22 195947.png)
+
+## GitHub打不开解决方法
+
+使用这个链接[daoliyu-music-file: 这是一个下载仓库](https://xn--zss16v79a249h.cn/)
+
+# 哔哩哔哩视频
+
+🔗 嵌入式内容: http://player.bilibili.com/player.html?isOutside=true&aid=116828026374155&bvid=BV1yBTu69EgS&cid=39483804766&p=1
