@@ -3,6 +3,7 @@ title: "在飞牛NAS部署私人音乐服务器"
 date: 2026-06-28T14:30:00Z
 createTime: 2026/06/28 22:30:00
 author: 喊不醒的睡神
+permalink: /posts/self-host-music-server-on-fnos/
 ---
 
 本次部署私人音乐服务器用的应用是道理鱼音乐

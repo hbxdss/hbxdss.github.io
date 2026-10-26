@@ -3,6 +3,7 @@ title: "程星博客还出过电脑版？"
 date: 2026-04-19T06:13:00Z
 createTime: 2026/04/19 14:13:00
 author: 喊不醒的睡神
+permalink: /posts/chengxing-desktop-version/
 ---
 
 # 旧事重提

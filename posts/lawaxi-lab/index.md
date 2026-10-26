@@ -3,6 +3,7 @@ title: "拉挖稀爆破实验室"
 date: 2026-04-06T06:53:00Z
 createTime: 2026/04/06 14:53:00
 author: 喊不醒的睡神
+permalink: /posts/lawaxi-lab/
 ---
 
 **拉挖稀爆破实验室，全~~网~~站首发**Q：为什么不是全网首发？A：因为我 b 站审核太多次没过，见下图![](https://www.xiaorin.cn/upload/Screenshot_20260405_000236_tv.danmaku.bili-BkUg.jpg)
