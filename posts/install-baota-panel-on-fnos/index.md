@@ -3,6 +3,7 @@ title: "在飞牛NAS中安装宝塔面板"
 date: 2026-07-05T06:00:00Z
 createTime: 2026/07/05 14:00:00
 author: 喊不醒的睡神
+permalink: /posts/install-baota-panel-on-fnos/
 ---
 
 众所周知，在面板界有两大天它们分别是宝塔面板和 1Panel 面板在以前我在飞牛 NAS 中安装了 1Panel 面板，但是因为 1Panel 面板占用率有一点高所以我来教大家如何卸载 1Panel 面板 + 安装宝塔面板

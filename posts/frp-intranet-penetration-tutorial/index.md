@@ -3,6 +3,7 @@ title: "FRP内网穿透教程"
 date: 2026-08-22T12:00:00Z
 createTime: 2026/08/22 20:00:00
 author: 喊不醒的睡神
+permalink: /posts/frp-intranet-penetration-tutorial/
 ---
 
 # 购买服务器

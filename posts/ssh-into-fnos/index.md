@@ -3,6 +3,7 @@ title: "如何ssh连接到飞牛NAS"
 date: 2026-05-24T05:22:02Z
 createTime: 2026/05/24 13:22:02
 author: 喊不醒的睡神
+permalink: /posts/ssh-into-fnos/
 ---
 
 首先在路由器后台或者飞牛 NAS 屏幕上找到飞牛 NAS 的 IP我这里以 192.168.2.161 为例
