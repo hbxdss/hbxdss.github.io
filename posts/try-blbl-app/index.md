@@ -3,6 +3,7 @@ title: "云视听小电视不想用了？试试blbl"
 date: 2026-04-25T11:52:48Z
 createTime: 2026/04/25 19:52:48
 author: 喊不醒的睡神
+permalink: /posts/try-blbl-app/
 ---
 
 # 云视听小电视的优缺点

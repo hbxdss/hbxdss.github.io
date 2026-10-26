@@ -3,6 +3,7 @@ title: "小小hosts拿下-修改hosts"
 date: 2026-04-18T11:47:00Z
 createTime: 2026/04/18 19:47:00
 author: 喊不醒的睡神
+permalink: /posts/edit-hosts-tips/
 ---
 
 # 前情提要
