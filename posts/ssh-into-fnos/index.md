@@ -10,7 +10,7 @@ permalink: /posts/ssh-into-fnos/
 
 # 开启ssh
 
-先用管理员账号登录的登录后台TIP：要验证是不是管理员账号，只要看有没有系统设置就行打开系统设置![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/11_%E5%A6%82%E4%BD%95ssh%E8%BF%9E%E6%8E%A5%E5%88%B0%E9%A3%9E%E7%89%9BNAS/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-05-23%2520161742.webp)选择 ssh![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/11_%E5%A6%82%E4%BD%95ssh%E8%BF%9E%E6%8E%A5%E5%88%B0%E9%A3%9E%E7%89%9BNAS/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-05-23%2520161742-WAcO.webp)打开 ssh![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/11_%E5%A6%82%E4%BD%95ssh%E8%BF%9E%E6%8E%A5%E5%88%B0%E9%A3%9E%E7%89%9BNAS/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-05-23%2520161955.webp)将你的管理员的 ssh 启用![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/11_%E5%A6%82%E4%BD%95ssh%E8%BF%9E%E6%8E%A5%E5%88%B0%E9%A3%9E%E7%89%9BNAS/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-05-23%2520162052.webp)现在飞牛端的所有工作都做完了，回到你的电脑
+先用管理员账号登录的登录后台TIP：要验证是不是管理员账号，只要看有没有系统设置就行打开系统设置![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/11_%E5%A6%82%E4%BD%95ssh%E8%BF%9E%E6%8E%A5%E5%88%B0%E9%A3%9E%E7%89%9BNAS/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-05-23%2520161742.webp)选择 ssh![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/11_%E5%A6%82%E4%BD%95ssh%E8%BF%9E%E6%8E%A5%E5%88%B0%E9%A3%9E%E7%89%9BNAS/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-05-23%2520161742.webp)打开 ssh![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/11_%E5%A6%82%E4%BD%95ssh%E8%BF%9E%E6%8E%A5%E5%88%B0%E9%A3%9E%E7%89%9BNAS/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-05-23%2520161955.webp)将你的管理员的 ssh 启用![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/11_%E5%A6%82%E4%BD%95ssh%E8%BF%9E%E6%8E%A5%E5%88%B0%E9%A3%9E%E7%89%9BNAS/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-05-23%2520162052.webp)现在飞牛端的所有工作都做完了，回到你的电脑
 
 # 下载
 
@@ -32,7 +32,7 @@ permalink: /posts/ssh-into-fnos/
 
 ### 飞牛下载（极慢）
 
-<https://share.fnnas.net/s/ce14db2902b0413993>点黑框下载![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/11_%E5%A6%82%E4%BD%95ssh%E8%BF%9E%E6%8E%A5%E5%88%B0%E9%A3%9E%E7%89%9BNAS/Screenshot_20260523_152232.webp)我这里以汉化版为例我的汉化版是便携版，解压即可食用
+<https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/11_%E5%A6%82%E4%BD%95ssh%E8%BF%9E%E6%8E%A5%E5%88%B0%E9%A3%9E%E7%89%9BNAS/Screenshot_20260523_152232.webp>我这里以汉化版为例我的汉化版是便携版，解压即可食用
 
 # 食用
 
