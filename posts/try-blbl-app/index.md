@@ -7,7 +7,7 @@ permalink: /posts/try-blbl-app/
 ---
 
 # 云视听小电视的优缺点
-![来自：哔哩哔哩官网的云视听小电视下载页面](https://xn--kiv765b.top/upload/MkAAqz6WRJ%20-%202026-04-25T160553.290.png)
+（原链接：https://xn--kiv765b.top/upload/MkAAqz6WRJ - 2026-04-25T160553.290.png：来自：哔哩哔哩官网的云视听小电视下载页面，源站图片已失效）
 
 ## 优点
 
@@ -43,7 +43,7 @@ permalink: /posts/try-blbl-app/
 当然，有优点那就会有缺点
 
 # Blbl的优缺点
-![](https://xn--kiv765b.top/upload/%E6%8E%A8%E8%8D%90%E9%A1%B5%20-%202026-04-25T194714.983-zXjT.png)
+（原链接：https://xn--kiv765b.top/upload/推荐页 - 2026-04-25T194714.983-zXjT.png，源站图片已失效）
 
 ## 优点
 
@@ -96,14 +96,14 @@ Blbl 的缺点也是说不完的
 
 
 一定要选择最上面的版本，打开来的话会有两个版本
-![以0.1.21版本为例](https://xn--kiv765b.top/upload/Screenshot_20260425_170232.jpg)
+（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_170232.jpg：以0.1.21版本为例，源站图片已失效）
 
 普通人的话选 release 版，开发者可以选 debug
 
 下载链接其实是 Github 官方，但是选择只有百度网盘，看来确实是 Github 官方
 
 只是没得选😡
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_165714_com.lemurbrowser.exts.jpg)
+（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_165714_com.lemurbrowser.exts.jpg，源站图片已失效）
 
 别问我为什么挂了豆包的窗
 
@@ -122,12 +122,12 @@ tip（提示）：打开慢不等于打不开
 一般电视或机顶盒都是安卓，也有不是的比如 IOS 或 Linux 的
 
 这个软件只能在安卓电视上运行
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_175459_bin.mt.plus.canary.jpg)
+（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_175459_bin.mt.plus.canary.jpg，源站图片已失效）
 
 这个安装包没有 lib 文件夹的话，说明这个安装包可能是采用纯 Java 或 Kotlin 编写的，没有包含任何 CPU 架构相关的原生代码，这种情况下一般 32 位和 64 位的安卓设备都能安装运行。
 
 我们再来看签名状态
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_175454.jpg)
+（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_175454.jpg，源站图片已失效）
 
 有 V1+V2，依然可以在 32 位的设备上运行
 
@@ -326,13 +326,13 @@ APP store 下载链接
 还有电视上弹出任何是否允许的提示，你都需要点击允许
 
 你现在你需要跟着这个图片集操作
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_192010_com.didjdk.adbhelper_edit_508144093671410.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260425_192307_com.didjdk.adbhelper_edit_508159425303178.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260425_192313_com.didjdk.adbhelper_edit_508197891227131.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260425_192320_com.didjdk.adbhelper_edit_508225936211502.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260425_192328_com.didjdk.adbhelper_edit_508241603581291.jpg)（原链接：https://xn--zss16v79a249h.cn/，源站图片已失效）![](https://xn--kiv765b.top/upload/Screenshot_20260425_192347_com.didjdk.adbhelper_edit_508355272043774.jpg)
+（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_192010_com.didjdk.adbhelper_edit_508144093671410.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_192307_com.didjdk.adbhelper_edit_508159425303178.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_192313_com.didjdk.adbhelper_edit_508197891227131.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_192320_com.didjdk.adbhelper_edit_508225936211502.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_192328_com.didjdk.adbhelper_edit_508241603581291.jpg，源站图片已失效）（原链接：https://xn--zss16v79a249h.cn/，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_192347_com.didjdk.adbhelper_edit_508355272043774.jpg，源站图片已失效）
 
 好。以我这个为例，我将 Blbl 下载到了 Download 文件夹
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_192354_com.didjdk.adbhelper_edit_508300539509407.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260425_192401_com.didjdk.adbhelper_edit_508385755211477.jpg)
+（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_192354_com.didjdk.adbhelper_edit_508300539509407.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_192401_com.didjdk.adbhelper_edit_508385755211477.jpg，源站图片已失效）
 
 经过了一段时间的等待，我们看到它安装完成了
-![Screenshot_20260425_192425_com.didjdk.adbhelper_edit_508449160880738.jpg](https://xn--kiv765b.top/upload/Screenshot_20260425_192425_com.didjdk.adbhelper_edit_508449160880738.jpg)
+（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_192425_com.didjdk.adbhelper_edit_508449160880738.jpg：Screenshot_20260425_192425_com.didjdk.adbhelper_edit_508449160880738.jpg，源站图片已失效）
 
 我们刷新列表可以看到已经有了 Blbl 应用
-![Screenshot_20260425_192452_com.didjdk.adbhelper_edit_508476697530734.jpg](https://xn--kiv765b.top/upload/Screenshot_20260425_192452_com.didjdk.adbhelper_edit_508476697530734.jpg)
+（原链接：https://xn--kiv765b.top/upload/Screenshot_20260425_192452_com.didjdk.adbhelper_edit_508476697530734.jpg：Screenshot_20260425_192452_com.didjdk.adbhelper_edit_508476697530734.jpg，源站图片已失效）
