@@ -22,6 +22,8 @@ permalink: /posts/bilibili-graduation-concert/
 
 ## 音频
 
+音频：[哔哩哔哩毕业歌会《海阔天空》.FLAC](https://gitee.com/hbxdss/temporary-warehouse/releases/download/halo-attachments-v1/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A%E3%80%8A%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA%E3%80%8B.FLAC)
+
 # 飞牛下载
 
 ## 视频&音频
