@@ -6,4 +6,4 @@ author: 喊不醒的睡神
 permalink: /posts/fnos-music-vs-daoliyu/
 ---
 
-🎬 视频: https://1840132105.cdn.123clouddisk.com/1840132105/30828629
+<video controls src="https://1840132105.cdn.123clouddisk.com/1840132105/30828629" style="width:100%"></video>

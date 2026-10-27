@@ -5,3 +5,5 @@ createTime: 2026/06/13 09:46:29
 author: 喊不醒的睡神
 permalink: /posts/wwdc2026-debate/
 ---
+
+<video controls src="https://1840132105.v.123pan.cn/1840132105/28692440" style="width:100%"></video>
