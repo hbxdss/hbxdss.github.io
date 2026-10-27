@@ -12,4 +12,8 @@ permalink: /posts/fnos-alternative-share-link/
 
 # 分享链接测试
 
-<https://share.fnnas.net/s/3d915947889d429cbb>注意：最高下载速度为 0.2MB。速度较慢，不建议使用
+[https://share.fnnas.net/s/3d915947889d429cbb](https://share.fnnas.net/s/3d915947889d429cbb)
+
+注意：最高下载速度为 0.2MB。
+
+速度较慢，不建议使用
