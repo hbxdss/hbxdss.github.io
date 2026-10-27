@@ -21,7 +21,7 @@ A：因为我 b 站审核太多次没过，见下图
 （原链接：https://www.xiaorin.cn/upload/Screenshot_20260404_140620.jpg，源站图片已失效）
 
 问了站长程星
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/21_%E6%8B%89%E6%8C%96%E7%A8%80%E7%88%86%E7%A0%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4/Screenshot_20260405_201151.webp)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/21_%E6%8B%89%E6%8C%96%E7%A8%80%E7%88%86%E7%A0%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4/Screenshot_20260405_201151.webp)
 
 让我心远地自偏，先到一些刺激的事情
 
