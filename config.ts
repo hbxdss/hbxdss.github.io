@@ -64,6 +64,8 @@ export default defineUserConfig({
     ['meta', { name: 'author', content: '睡神' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
     ['meta', { name: 'theme-color', content: '#7c5cff' }],
+    // Gitee 图床防盗链：全站声明不发送 Referer，否则图片会被 Gitee 返回 403
+    ['meta', { name: 'referrer', content: 'no-referrer' }],
     // —— Open Graph（社交分享）——
     ['meta', { property: 'og:site_name', content: SITE_NAME }],
     ['meta', { property: 'og:type', content: 'website' }],
