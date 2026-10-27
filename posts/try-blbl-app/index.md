@@ -7,7 +7,6 @@ permalink: /posts/try-blbl-app/
 ---
 
 # 云视听小电视的优缺点
-
 ![来自：哔哩哔哩官网的云视听小电视下载页面](https://xn--kiv765b.top/upload/MkAAqz6WRJ%20-%202026-04-25T160553.290.png)
 
 ## 优点
@@ -39,10 +38,11 @@ permalink: /posts/try-blbl-app/
 
 # 那有没有弥补云视听小电视缺点点的软件呢
 
-有的，说的就是 Blbl当然，有优点那就会有缺点
+有的，说的就是 Blbl
+
+当然，有优点那就会有缺点
 
 # Blbl的优缺点
-
 ![](https://xn--kiv765b.top/upload/%E6%8E%A8%E8%8D%90%E9%A1%B5%20-%202026-04-25T194714.983-zXjT.png)
 
 ## 优点
@@ -59,7 +59,9 @@ permalink: /posts/try-blbl-app/
 6. 没有家庭模式，在电视上运行肯定得要考虑是否有家庭模式的，毕竟你家人的兴趣和你的兴趣也不一样
 7. Bug 也非常多
 
-Blbl 的缺点也是说不完的如果你能接受这个缺点，那你就下载
+Blbl 的缺点也是说不完的
+
+如果你能接受这个缺点，那你就下载
 
 # 下载
 
@@ -71,21 +73,65 @@ Blbl 的缺点也是说不完的如果你能接受这个缺点，那你就下载
 
 你只需要打开这个链接下载
 
-下载地址
 
-Blbl.apk
+    下载地址
 
-百度云网盘
 
-一定要选择最上面的版本，打开来的话会有两个版本![以0.1.21版本为例](https://xn--kiv765b.top/upload/Screenshot_20260425_170232.jpg)普通人的话选 release 版，开发者可以选 debug下载链接其实是 Github 官方，但是选择只有百度网盘，看来确实是 Github 官方只是没得选😡![](https://xn--kiv765b.top/upload/Screenshot_20260425_165714_com.lemurbrowser.exts.jpg)别问我为什么挂了豆包的窗本来想要让豆包搞一个自动下载最新版的链接的，没搞成
+
+
+
+
+
+                Blbl.apk
+
+
+                百度云网盘
+
+
+
+
+
+
+
+
+
+一定要选择最上面的版本，打开来的话会有两个版本
+![以0.1.21版本为例](https://xn--kiv765b.top/upload/Screenshot_20260425_170232.jpg)
+
+普通人的话选 release 版，开发者可以选 debug
+
+下载链接其实是 Github 官方，但是选择只有百度网盘，看来确实是 Github 官方
+
+只是没得选😡
+![](https://xn--kiv765b.top/upload/Screenshot_20260425_165714_com.lemurbrowser.exts.jpg)
+
+别问我为什么挂了豆包的窗
+
+本来想要让豆包搞一个自动下载最新版的链接的，没搞成
 
 ## 打不开Github的
 
-有一个方法绝对能打开：出国tip（提示）：打开慢不等于打不开打开慢正常，因为微软的 Github 服务器距离中国最近的服务器在新加坡🇸🇬。出国也要时间，说不定还要走海底光缆（应该不至于，说不定还真要走）
+有一个方法绝对能打开：出国
+
+tip（提示）：打开慢不等于打不开
+
+打开慢正常，因为微软的 Github 服务器距离中国最近的服务器在新加坡🇸🇬。出国也要时间，说不定还要走海底光缆（应该不至于，说不定还真要走）
 
 # 兼容性如何
 
-一般电视或机顶盒都是安卓，也有不是的比如 IOS 或 Linux 的这个软件只能在安卓电视上运行![](https://xn--kiv765b.top/upload/Screenshot_20260425_175459_bin.mt.plus.canary.jpg)这个安装包没有 lib 文件夹的话，说明这个安装包可能是采用纯 Java 或 Kotlin 编写的，没有包含任何 CPU 架构相关的原生代码，这种情况下一般 32 位和 64 位的安卓设备都能安装运行。我们再来看签名状态![](https://xn--kiv765b.top/upload/Screenshot_20260425_175454.jpg)有 V1+V2，依然可以在 32 位的设备上运行你可以将这个安装包拷贝到 U 盘里给电视安装，或者使用 ADB 安装
+一般电视或机顶盒都是安卓，也有不是的比如 IOS 或 Linux 的
+
+这个软件只能在安卓电视上运行
+![](https://xn--kiv765b.top/upload/Screenshot_20260425_175459_bin.mt.plus.canary.jpg)
+
+这个安装包没有 lib 文件夹的话，说明这个安装包可能是采用纯 Java 或 Kotlin 编写的，没有包含任何 CPU 架构相关的原生代码，这种情况下一般 32 位和 64 位的安卓设备都能安装运行。
+
+我们再来看签名状态
+![](https://xn--kiv765b.top/upload/Screenshot_20260425_175454.jpg)
+
+有 V1+V2，依然可以在 32 位的设备上运行
+
+你可以将这个安装包拷贝到 U 盘里给电视安装，或者使用 ADB 安装
 
 # ADB安装需要用到的软件
 
@@ -95,15 +141,38 @@ Blbl.apk
 
 ### 开心电视助手
 
-在电脑上安装需要用到开心电视助手爱心电视官方网址：www.kaixindianshi.com我没在开心电视的官方网址上找到开心电视助手下载方式只能给大家安排到第三方下载了老规矩：不是百度网盘下载
+在电脑上安装需要用到开心电视助手
 
-下载地址
+爱心电视官方网址：www.kaixindianshi.com
 
-开心电视助手
+我没在开心电视的官方网址上找到开心电视助手下载方式
 
-百度云网盘
+只能给大家安排到第三方下载了
 
-没事，想去上面这个网站下载也可以使用本站下载[开心电视助手 8.2.zip](/upload/开心电视助手8.2.zip)
+老规矩：不是百度网盘下载
+
+    下载地址
+
+
+
+
+
+
+
+                开心电视助手
+
+
+                百度云网盘
+
+
+
+
+
+
+
+
+
+没事，想去上面这个网站下载也可以使用本站下载开心电视助手 8.2.zip
 
 ## 手机安装
 
@@ -111,19 +180,42 @@ Blbl.apk
 
 #### 甲壳虫ADB助手
 
-在安卓手机上的话需要使用到甲壳虫 ADB 助手官方网址：https://adbhelper.ruanmao.net/官方百度网盘下载地址这回是真百度网盘了
+在安卓手机上的话需要使用到甲壳虫 ADB 助手
 
-下载地址
+官方网址：https://adbhelper.ruanmao.net/
 
-甲壳虫ADB助手
+官方百度网盘下载地址
 
-百度云网盘 · 提取码: wyyz
+这回是真百度网盘了
 
-不想被百度网盘恶心，我也准备了本站下载[甲壳虫 ADB 助手.apk](/upload/甲壳虫ADB助手.apk)
+    下载地址
+
+
+
+
+
+
+
+                甲壳虫ADB助手
+
+
+                百度云网盘  ·  提取码: wyyz
+
+
+
+
+
+
+
+
+
+不想被百度网盘恶心，我也准备了本站下载甲壳虫 ADB 助手.apk
 
 ### 苹果手机
 
-虽然苹果手机上面有很多 ADB 调试软件，我都给大家列出来优先选择：小甲虫 - 文件应用管理 & Shell 命令助手 备用选择：Bugjaeger - Mobile ADB
+虽然苹果手机上面有很多 ADB 调试软件，我都给大家列出来
+
+优先选择：小甲虫 - 文件应用管理 & Shell 命令助手 备用选择：Bugjaeger - Mobile ADB
 
 #### 小甲虫
 
@@ -141,21 +233,39 @@ Blbl.apk
 1. 连接不稳定
 2. 对于老设备不太友好，需要系统是 iOS15+
 
-APP store 下载链接老规矩：不是百度网盘，这是直接跳转到苹果官网的
+APP store 下载链接
 
-下载地址
+老规矩：不是百度网盘，这是直接跳转到苹果官网的
 
-小甲虫 - 文件应用管理 & Shell命令助手
+    下载地址
 
-百度云网盘
+
+
+
+
+
+
+                小甲虫 - 文件应用管理 & Shell命令助手
+
+
+                百度云网盘
+
+
+
+
+
+
+
+
 
 #### Bugjaeger
 
 ##### 优点
+功能多更专业
 
-1. 功能多更专业
-2. 多设备控制强
-3. 支持自定义命令
+多设备控制强
+
+支持自定义命令
 
 ##### 缺点
 
@@ -164,23 +274,45 @@ APP store 下载链接老规矩：不是百度网盘，这是直接跳转到苹�
 3. 免费版有广告
 4. 需要更换外区账号
 
-APP store 下载链接老规矩：不是百度网盘，这是直接跳转到苹果官网的
+APP store 下载链接
 
-下载地址
+老规矩：不是百度网盘，这是直接跳转到苹果官网的
 
-Bugjaeger - Mobile ADB
+    下载地址
 
-百度云网盘
+
+
+
+
+
+
+                Bugjaeger - Mobile ADB
+
+
+                百度云网盘
+
+
+
+
+
+
+
+
 
 ##### 最后的附件
 
-###### Bugjaeger美区订阅价格
+##### Bugjaeger美区订阅价格
+按发稿日期当天 2026 年 4 月 25 日汇率
 
-按发稿日期当天 2026 年 4 月 25 日汇率1 美元约等于 6.83 人民币得
+1 美元约等于 6.83 人民币
+
+得
 
 | 价格 / 时间 | 周订阅 | 月订阅 | 年订阅 |
-|---|---|---|---|
-| 美元 | $7.99 ​ | $14.99 | $39.99 |
+| --- | --- | --- | --- |
+| 美元 | $7.99
+
+​ | $14.99 | $39.99 |
 | 人民币 | ≈ ¥54.57 | ≈¥102.38 | ≈ ¥273.13 |
 
 #### 结论
@@ -189,26 +321,18 @@ Bugjaeger - Mobile ADB
 
 # 甲壳虫安装演示
 
-首先你要确保你的电视机开启的 ADB还有电视上弹出任何是否允许的提示，你都需要点击允许你现在你需要跟着这个图片集操作
+首先你要确保你的电视机开启的 ADB
 
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_192010_com.didjdk.adbhelper_edit_508144093671410.jpg)
+还有电视上弹出任何是否允许的提示，你都需要点击允许
 
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_192307_com.didjdk.adbhelper_edit_508159425303178.jpg)
-
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_192313_com.didjdk.adbhelper_edit_508197891227131.jpg)
-
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_192320_com.didjdk.adbhelper_edit_508225936211502.jpg)
-
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_192328_com.didjdk.adbhelper_edit_508241603581291.jpg)
-
-![](https://xn--zss16v79a249h.cn/)
-
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_192347_com.didjdk.adbhelper_edit_508355272043774.jpg)
+你现在你需要跟着这个图片集操作
+![](https://xn--kiv765b.top/upload/Screenshot_20260425_192010_com.didjdk.adbhelper_edit_508144093671410.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260425_192307_com.didjdk.adbhelper_edit_508159425303178.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260425_192313_com.didjdk.adbhelper_edit_508197891227131.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260425_192320_com.didjdk.adbhelper_edit_508225936211502.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260425_192328_com.didjdk.adbhelper_edit_508241603581291.jpg)（原链接：https://xn--zss16v79a249h.cn/，源站图片已失效）![](https://xn--kiv765b.top/upload/Screenshot_20260425_192347_com.didjdk.adbhelper_edit_508355272043774.jpg)
 
 好。以我这个为例，我将 Blbl 下载到了 Download 文件夹
+![](https://xn--kiv765b.top/upload/Screenshot_20260425_192354_com.didjdk.adbhelper_edit_508300539509407.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260425_192401_com.didjdk.adbhelper_edit_508385755211477.jpg)
 
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_192354_com.didjdk.adbhelper_edit_508300539509407.jpg)
+经过了一段时间的等待，我们看到它安装完成了
+![Screenshot_20260425_192425_com.didjdk.adbhelper_edit_508449160880738.jpg](https://xn--kiv765b.top/upload/Screenshot_20260425_192425_com.didjdk.adbhelper_edit_508449160880738.jpg)
 
-![](https://xn--kiv765b.top/upload/Screenshot_20260425_192401_com.didjdk.adbhelper_edit_508385755211477.jpg)
-
-经过了一段时间的等待，我们看到它安装完成了![Screenshot_20260425_192425_com.didjdk.adbhelper_edit_508449160880738.jpg](https://xn--kiv765b.top/upload/Screenshot_20260425_192425_com.didjdk.adbhelper_edit_508449160880738.jpg)我们刷新列表可以看到已经有了 Blbl 应用![Screenshot_20260425_192452_com.didjdk.adbhelper_edit_508476697530734.jpg](https://xn--kiv765b.top/upload/Screenshot_20260425_192452_com.didjdk.adbhelper_edit_508476697530734.jpg)
+我们刷新列表可以看到已经有了 Blbl 应用
+![Screenshot_20260425_192452_com.didjdk.adbhelper_edit_508476697530734.jpg](https://xn--kiv765b.top/upload/Screenshot_20260425_192452_com.didjdk.adbhelper_edit_508476697530734.jpg)
