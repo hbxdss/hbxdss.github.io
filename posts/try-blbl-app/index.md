@@ -8,7 +8,7 @@ permalink: /posts/try-blbl-app/
 
 # 云视听小电视的优缺点
 
-![来自：哔哩哔哩官网的云视听小电视下载页面](https://xn--kiv765b.top/upload/MkAAqz6WRJ%20-%202026-04-25T160553.290.png)
+![来自：哔哩哔哩官网的云视听小电视下载页面](https://xn--kiv765b.top/upload/MkAAqz6WRJ - 2026-04-25T160553.290.png)
 
 ## 优点
 
@@ -43,7 +43,7 @@ permalink: /posts/try-blbl-app/
 
 # Blbl的优缺点
 
-![](https://xn--kiv765b.top/upload/%E6%8E%A8%E8%8D%90%E9%A1%B5%20-%202026-04-25T194714.983-zXjT.png)
+![](https://xn--kiv765b.top/upload/推荐页 - 2026-04-25T194714.983-zXjT.png)
 
 ## 优点
 
