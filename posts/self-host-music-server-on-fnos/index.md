@@ -10,7 +10,44 @@ permalink: /posts/self-host-music-server-on-fnos/
 
 # 安装
 
-打开应用中心![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520110625.png)选择影音娱乐![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520110813.png)选择道鲤鱼音乐 NEW![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520112816.png)选择安装![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520113105.png)现在就是无尽的等待等待到弹出这个![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520113403.png)点击我接受许可协议的条款，然后下一步输入一个没被占用的端口![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520113607.png)下一步，又是无尽的等待到这个页面，点击打开![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520113831.png)到这个页面![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520113922.png)更具它的流程走来到这个页面，可以看到我的音乐库家徒四壁![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520114259.png)把你下载的音乐上传到 NAS（其实不止音乐，还有音乐视频等）我这里准备了一些音乐和音乐视频（MV）可供大家下载。
+打开应用中心
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520110625.png)
+
+选择影音娱乐
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520110813.png)
+
+选择道鲤鱼音乐 NEW
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520112816.png)
+
+选择安装
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520113105.png)
+
+现在就是无尽的等待
+
+等待到弹出这个
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520113403.png)
+
+点击我接受许可协议的条款，然后下一步
+
+输入一个没被占用的端口
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520113607.png)
+
+下一步，又是无尽的等待
+
+到这个页面，点击打开
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520113831.png)
+
+到这个页面
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520113922.png)
+
+更具它的流程走
+
+来到这个页面，可以看到我的音乐库家徒四壁
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520114259.png)
+
+把你下载的音乐上传到 NAS（其实不止音乐，还有音乐视频等）
+
+我这里准备了一些音乐和音乐视频（MV）可供大家下载。
 
 # 音乐下载软件下载
 
@@ -18,25 +55,26 @@ permalink: /posts/self-host-music-server-on-fnos/
 
 ## 蓝奏云下载
 
-<https://hbxdss.lanzouw.com/icrOd3sdnnij>密码:hbxdss
+[https://hbxdss.lanzouw.com/icrOd3sdnnij](https://hbxdss.lanzouw.com/icrOd3sdnnij)
+
+密码:hbxdss
 
 ## 123云盘下载
 
 ### 链接下载
 
-<https://1859943259.share.123865.com/123pan/emQzvd-x10Sv>
+[https://1859943259.share.123865.com/123pan/emQzvd-x10Sv](https://1859943259.share.123865.com/123pan/emQzvd-x10Sv)
 
 ### 扫码下载
-
 ![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/image_1781929485031.jpg)
 
 ## 程星资源库下载
 
-[Fly 音乐 -Plus\_v1.2.8\_ 纯净版.zip](https://gitee.com/hbxdss/temporary-warehouse/releases/download/halo-attachments-v1/Fly音乐-Plus_v1.2.8_纯净版.zip)
+Fly 音乐 -Plus_v1.2.8_ 纯净版.zip
 
 ## GitHub下载（直链）
 
-<https://github.com/hbxdss/daoliyu-music-file/releases/download/下载/Fly.-Plus_v1.2.8_.apk>
+[https://github.com/hbxdss/daoliyu-music-file/releases/download/%E4%B8%8B%E8%BD%BD/Fly.-Plus_v1.2.8_.apk](https://github.com/hbxdss/daoliyu-music-file/releases/download/%E4%B8%8B%E8%BD%BD/Fly.-Plus_v1.2.8_.apk)
 
 # 音乐刮削器下载
 
@@ -44,54 +82,97 @@ permalink: /posts/self-host-music-server-on-fnos/
 
 ## 蓝奏云下载
 
-<https://hbxdss.lanzouw.com/i1pD33sem7lg>
-密码:hbxdss
+[https://hbxdss.lanzouw.com/i1pD33sem7lg](https://hbxdss.lanzouw.com/i1pD33sem7lg)密码:hbxdss
 
 ## 123云盘
 
 ### 链接下载
 
-<https://1859943259.share.123865.com/123pan/emQzvd-eGZlv>
+[https://1859943259.share.123865.com/123pan/emQzvd-eGZlv](https://1859943259.share.123865.com/123pan/emQzvd-eGZlv)
 
 ### 二维码下载
-
 ![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/image-oVgJ.png)
 
 ## 程星资源库下载
 
-[MusicTag v1.0.9.0.zip](https://gitee.com/hbxdss/temporary-warehouse/releases/download/halo-attachments-v1/MusicTag v1.0.9.0.zip)
+MusicTag v1.0.9.0.zip
 
 ## GitHub下载（直链）
 
-<https://github.com/hbxdss/daoliyu-music-file/releases/download/下载/MusicTag.v1.0.9.0.zip>
+[https://github.com/hbxdss/daoliyu-music-file/releases/download/%E4%B8%8B%E8%BD%BD/MusicTag.v1.0.9.0.zip](https://github.com/hbxdss/daoliyu-music-file/releases/download/%E4%B8%8B%E8%BD%BD/MusicTag.v1.0.9.0.zip)
 
 # 音乐刮削器使用
 
-解压后打开 MusicTag.exe![屏幕截图 2026-06-22 192110.png](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520192110.png)
+解压后打开 MusicTag.exe
+![屏幕截图 2026-06-22 192110.png](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520192110.png)
 
 ## 改变工作目录
 
-点击我箭头指的位置，选择自己音乐存放的目录![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520192124.png)此时使你的电脑处于联网状态按下键盘商店 Ctrl 和 A 键，全选音乐![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520193715.png)点击我箭头指的位置，设置刮削![屏幕截图 2026-06-22 193815.png](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520193815.png)点击这两个按钮![屏幕截图 2026-06-22 193949.png](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520193949.png)联网搜索线程数可酌情增加。我这里直接拉满！点击确认，开始刮削![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520194044.png)刮削完了你会看到提示![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520194149.png)
+点击我箭头指的位置，选择自己音乐存放的目录
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520192124.png)
+
+此时使你的电脑处于联网状态
+
+按下键盘商店 Ctrl 和 A 键，全选音乐
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520193715.png)
+
+点击我箭头指的位置，设置刮削
+![屏幕截图 2026-06-22 193815.png](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520193815.png)
+
+点击这两个按钮
+![屏幕截图 2026-06-22 193949.png](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520193949.png)
+
+联网搜索线程数可酌情增加。我这里直接拉满！
+
+点击确认，开始刮削
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520194044.png)
+
+刮削完了你会看到提示
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520194149.png)
 
 # 设置文件夹访问权限
 
-将音乐上传完了后，鼠标右键点击道理鱼音乐在桌面的图标![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520125427.png)选择管理应用![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520125507.png)选择应用设置![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520125654.png)把你传的音乐等媒体文件夹改成允许访问我的文件夹名是 daoliyu![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520125924.png)点击确定![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130001.png)
+将音乐上传完了后，鼠标右键点击道理鱼音乐在桌面的图标
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520125427.png)
+
+选择管理应用
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520125507.png)
+
+选择应用设置
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520125654.png)
+
+把你传的音乐等媒体文件夹改成允许访问
+
+我的文件夹名是 daoliyu
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520125924.png)
+
+点击确定
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130001.png)
 
 # 添加音乐
 
-来到道理鱼音乐，点击头像![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130119.png)点击多媒体库![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130144.png)点击添加媒体![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130227.png)选择自己的路径![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130318.png)点添加路径![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130833.png)点击扫描全部![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130342.png)
+来到道理鱼音乐，点击头像
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130119.png)
+
+点击多媒体库
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130144.png)
+
+点击添加媒体
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130227.png)
+
+选择自己的路径
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130318.png)
+
+点添加路径
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130833.png)
+
+点击扫描全部
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130342.png)
 
 # 成果展示
 
 你会看到多了很多
-
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130956.png)
-
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520131049.png)
-
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520131101.png)
-
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520131110.png)
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520130956.png)![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520131049.png)![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520131101.png)![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-20%2520131110.png)
 
 # 我的音乐&MV分享
 
@@ -99,27 +180,54 @@ permalink: /posts/self-host-music-server-on-fnos/
 
 ## 仅音乐
 
-蓝奏云：<https://hbxdss.lanzouw.com/b01d70xfwd>
-密码:hbxdss123 云盘：<https://1859943259.share.123865.com/123pan/emQzvd-o4alv>
+蓝奏云：
+
+[https://hbxdss.lanzouw.com/b01d70xfwd](https://hbxdss.lanzouw.com/b01d70xfwd)密码:hbxdss
+
+123 云盘：
+
+[https://1859943259.share.123865.com/123pan/emQzvd-o4alv](https://1859943259.share.123865.com/123pan/emQzvd-o4alv)
 
 ## 仅MV
 
-123 云盘：<https://1859943259.share.123865.com/123pan/emQzvd-yGZlv>
+123 云盘：
+
+[https://1859943259.share.123865.com/123pan/emQzvd-yGZlv](https://1859943259.share.123865.com/123pan/emQzvd-yGZlv)
 
 ## 音乐&MV
 
-123 云盘：<https://1859943259.share.123865.com/123pan/emQzvd-m4alv>
+123 云盘：
+
+[https://1859943259.share.123865.com/123pan/emQzvd-m4alv](https://1859943259.share.123865.com/123pan/emQzvd-m4alv)
 
 # 附录
 
 ## 我分享的GitHub下载慢解决方法
 
-其实我给大家分享的是 GitHub 的 releases 下载链接比较慢解决方法：打开这个链接[hbxdss/daoliyu-music-file: 这是一个下载仓库](https://github.com/hbxdss/daoliyu-music-file)点击”软件下载“![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520195456.png)![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520195605.png)这里有两个文件。第一个是音乐下载器，第二个是音乐刮削器。你要下那个点哪个我已第一个为例打开后点击下载图标![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520195947.png)
+其实我给大家分享的是 GitHub 的 releases 下载链接比较慢
+
+解决方法：
+
+打开这个链接
+
+[hbxdss/daoliyu-music-file: 这是一个下载仓库](https://github.com/hbxdss/daoliyu-music-file)
+
+点击”软件下载“
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520195456.png)![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520195605.png)
+
+这里有两个文件。第一个是音乐下载器，第二个是音乐刮削器。你要下那个点哪个
+
+我已第一个为例
+
+打开后点击下载图标
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-06-22%2520195947.png)
 
 ## GitHub打不开解决方法
 
-使用这个链接[daoliyu-music-file: 这是一个下载仓库](https://xn--zss16v79a249h.cn/)
+使用这个链接
+
+[daoliyu-music-file: 这是一个下载仓库](https://xn--zss16v79a249h.cn/)
 
 # 哔哩哔哩视频
 
-🔗 嵌入式内容: http://player.bilibili.com/player.html?isOutside=true&aid=116828026374155&bvid=BV1yBTu69EgS&cid=39483804766&p=1
+<iframe src="http://player.bilibili.com/player.html?isOutside=true&amp;aid=116828026374155&amp;bvid=BV1yBTu69EgS&amp;cid=39483804766&amp;p=1" width="100%" height="300px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
