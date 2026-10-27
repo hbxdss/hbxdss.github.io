@@ -28,7 +28,7 @@ permalink: /posts/self-host-music-server-on-fnos/
 
 ### 扫码下载
 
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/image_1781929485031.jpg)
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/image_1781929485031.jpg)
 
 ## 程星资源库下载
 
@@ -55,7 +55,7 @@ permalink: /posts/self-host-music-server-on-fnos/
 
 ### 二维码下载
 
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/睡神博客/文章照片/07_在飞牛NAS部署私人音乐服务器/image-oVgJ.png)
+![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/07_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E9%83%A8%E7%BD%B2%E7%A7%81%E4%BA%BA%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/image-oVgJ.png)
 
 ## 程星资源库下载
 
