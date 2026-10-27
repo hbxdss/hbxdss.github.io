@@ -56,10 +56,10 @@ Mac、Linux 路径：
 
 1. 打开这个网站 https://www.itdog.cn/ping/
 2. 在图示位置输入网址
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_144538_edit_359351189174845-jzvL.webp)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_144538_edit_359351189174845-jzvL.webp)
 3. 先选择你所在地区的运营商（快输入的网址下面选择），然后选择连续测试，等待测试完成
 4. 现在我已经测试完成了，结果如下（测试结果仅代表我个人，不建议引用我的 IP）
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_150356.webp)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_150356.webp)
 5. 首先你需要看测试的地点需要看离你最近的市或者你所在城市（这里是江苏电信）
 6. 然后你要看你 IP 响应的位置如果在国内尽，量选择香港，除非香港 IP 延时特别高
 7. 接下来就是看丢包率，平均响应时间。收包率尽量为零，平均响应时间越低越好
@@ -70,7 +70,7 @@ Mac、Linux 路径：
 
 1. 打开这个网站 https://tool.ip138.com/punycode/
 2. 依然需要打开一个网站，将中文域名转化成规范域的名
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_155625_com.lemurbrowser.exts_edit_361404829875053.webp)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_155625_com.lemurbrowser.exts_edit_361404829875053.webp)
 
 现在所有的准备已经做完我们现在开始干正事
 
@@ -78,18 +78,18 @@ Mac、Linux 路径：
 
 1. 你需要安装一个软件（下载这个软件需要用到大约 1.65MB 流量）。链接放在最后
 2. 你需要在内部存储（各个厂商叫法不一样）创建一个 hosts 文件夹
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_163230_bin.mt.plus.canary-UGIG.webp)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_163230_bin.mt.plus.canary-UGIG.webp)
 
 提示：接下来的内容以 MT 管理器为例（重新排序了）
 
 1. 来创建一个文件，至于文件名你只需要自己分得清就行（注意：不需要后缀名）。我这里就以 chengxing top
-![Screenshot_20260418_163327_bin.mt.plus.canary.jpg](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_163327_bin.mt.plus.canary.webp)
+![Screenshot_20260418_163327_bin.mt.plus.canary.jpg](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_163327_bin.mt.plus.canary.webp)
 2. 打开刚刚创建的文件
-![Screenshot_20260418_163840_bin.mt.plus.canary.jpg](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_163840_bin.mt.plus.canary.webp)
+![Screenshot_20260418_163840_bin.mt.plus.canary.jpg](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_163840_bin.mt.plus.canary.webp)
 3. 选择编辑文本
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_164124_bin.mt.plus.canary.webp)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_164124_bin.mt.plus.canary.webp)
 4. 所以我江苏徐州的 IP 最快
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_170058.webp)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_170058.webp)
 5. 需要按格式进行输入 hosts 文件
 
 hosts 文件格式：
@@ -103,7 +103,7 @@ IP （注意空格）域名
 103.254.25.4 xn--kiv765b.top
 
 输完后是这样的
-![Screenshot_20260418_174316_bin.mt.plus.canary.jpg](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_174316_bin.mt.plus.canary.webp)
+![Screenshot_20260418_174316_bin.mt.plus.canary.jpg](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_174316_bin.mt.plus.canary.webp)
 
 点击保存
 
@@ -113,10 +113,10 @@ IP （注意空格）域名
 
 1. 将下载的软件安装
 2. 打开，十有八九会看到这样的界面（如果看不到，那就说明软件版本升级了）
-![](https://gitee.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_180540_com.github.xfalcon.vhosts.webp)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_180540_com.github.xfalcon.vhosts.webp)
 
 接下来你只需要跟着箭头点就行（有一个图片集）
-![](https://xn--kiv765b.top/upload/Screenshot_20260418_180540_com.github.xfalcon.vhosts_edit_369399924288937-gErR.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260418_180831_com.huawei.android.internal.app_edit_371699681490149.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260418_180842_com.android.documentsui_edit_371725638912540.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260418_180849_com.android.documentsui_edit_371741624289621.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260418_181041_com.android.documentsui_edit_371878209723455.jpg)![](https://xn--kiv765b.top/upload/Screenshot_20260418_181118_com.android.vpndialogs_edit_371998720419270.jpg)
+（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_180540_com.github.xfalcon.vhosts_edit_369399924288937-gErR.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_180831_com.huawei.android.internal.app_edit_371699681490149.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_180842_com.android.documentsui_edit_371725638912540.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_180849_com.android.documentsui_edit_371741624289621.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_181041_com.android.documentsui_edit_371878209723455.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_181118_com.android.vpndialogs_edit_371998720419270.jpg，源站图片已失效）
 
 最后的最后：
 
