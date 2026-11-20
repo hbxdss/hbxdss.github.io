@@ -6,4 +6,4 @@ author: 喊不醒的睡神
 permalink: /posts/wwdc2026-debate/
 ---
 
-<video controls src="https://1840132105.v.123pan.cn/1840132105/28692440" style="width:100%"></video>
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=116725819381103&bvid=BV1oaEd6YENz&cid=39013254006&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:100%;height:500px;"></iframe>
