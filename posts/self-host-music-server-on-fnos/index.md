@@ -270,4 +270,4 @@ permalink: /posts/self-host-music-server-on-fnos/
 
 # 哔哩哔哩视频
 
-<iframe src="http://player.bilibili.com/player.html?isOutside=true&amp;aid=116828026374155&amp;bvid=BV1yBTu69EgS&amp;cid=39483804766&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=116828026374155&amp;bvid=BV1yBTu69EgS&amp;cid=39483804766&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>

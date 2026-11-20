@@ -8,7 +8,7 @@ permalink: /posts/weird-login-method/
 
 哔哩哔哩原视频
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&amp;aid=116357911806125&amp;bvid=BV1TRSZBvEWq&amp;cid=37291164989&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=116357911806125&amp;bvid=BV1TRSZBvEWq&amp;cid=37291164989&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
 
 直接用 Cookie 登陆
 

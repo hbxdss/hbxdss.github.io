@@ -144,4 +144,4 @@ sudo -i
 
 # 哔哩哔哩视频
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&amp;aid=116667602438669&amp;bvid=BV1iNVH6xEzd&amp;cid=38740101074&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=116667602438669&amp;bvid=BV1iNVH6xEzd&amp;cid=38740101074&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
