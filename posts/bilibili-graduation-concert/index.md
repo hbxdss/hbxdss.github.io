@@ -10,6 +10,10 @@ permalink: /posts/bilibili-graduation-concert/
 
 ## 视频
 
+<iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=116668021868237&amp;bvid=BV1gdVJ6CEV1&amp;cid=41467250165&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
+
+B 站原片（2026 bilibili 毕业歌会官方发布）已在上方直接播放，以下为各清晰度本地文件备份：
+
 视频：4K（哔哩哔哩毕业歌会《海阔天空》.mp4，原链接：https://www.xiaorin.cn/upload/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A%E3%80%8A%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA%E3%80%8B.mp4，源站文件已删除）
 
 视频：1080P（哔哩哔哩毕业歌会《海阔天空》 1080P.mp4，原链接：https://www.xiaorin.cn/upload/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A%E3%80%8A%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA%E3%80%8B%201080P.mp4，源站文件已删除）

@@ -6,4 +6,6 @@ author: 喊不醒的睡神
 permalink: /posts/wwdc2026-debate/
 ---
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=116725819381103&bvid=BV1oaEd6YENz&cid=39013254006&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:100%;height:500px;"></iframe>
+视频来自电丸科技 AK 的 WWDC2026 圆桌讨论，直接观看：
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=116725819381103&amp;bvid=BV1oaEd6YENz&amp;cid=39013254006&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
