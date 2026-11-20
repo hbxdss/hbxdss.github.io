@@ -132,7 +132,7 @@ IP （注意空格）域名
 ![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_180540_com.github.xfalcon.vhosts.webp)
 
 接下来你只需要跟着箭头点就行（有一个图片集）
-（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_180540_com.github.xfalcon.vhosts_edit_369399924288937-gErR.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_180831_com.huawei.android.internal.app_edit_371699681490149.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_180842_com.android.documentsui_edit_371725638912540.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_180849_com.android.documentsui_edit_371741624289621.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_181041_com.android.documentsui_edit_371878209723455.jpg，源站图片已失效）（原链接：https://xn--kiv765b.top/upload/Screenshot_20260418_181118_com.android.vpndialogs_edit_371998720419270.jpg，源站图片已失效）
+（此处 6 张原图在原站已失效，无法显示）
 
 最后的最后：
 
@@ -143,7 +143,7 @@ IP （注意空格）域名
 我相信五成的人都访问不了
 
 ∴（数学符号的所以）…
-视频：地沟油上的视频.mp4（原链接：https://www.xiaorin.cn/upload/%E5%9C%B0%E6%B2%9F%E6%B2%B9%E4%B8%8A%E7%9A%84%E8%A7%86%E9%A2%91.mp4，源站文件已删除）
+视频：地沟油上的视频.mp4（原文件已失效）
 
 再次最后的最后
 
@@ -151,7 +151,7 @@ IP （注意空格）域名
 
 优先：https://github.com/x-falcon/Virtual-Hosts/releases
 
-如果上个链接不行的话用这个：host.apk（原链接：https://www.xiaorin.cn/upload/host.apk，源站文件已删除）
+如果上个链接不行的话用这个：host.apk（原文件已失效）
 
 # 哔哩哔哩视频
 

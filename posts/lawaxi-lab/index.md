@@ -11,14 +11,14 @@ permalink: /posts/lawaxi-lab/
 Q：为什么不是全网首发？
 
 A：因为我 b 站审核太多次没过，见下图
-（原链接：https://www.xiaorin.cn/upload/Screenshot_20260405_000236_tv.danmaku.bili-BkUg.jpg，源站图片已失效）
+（原图已失效）
 
 我想出了很多办法都没通过，快要被气死了。甚至我到了半夜我还在想办法
 
 我就想不通，为什么某人能发，而我不能发
 
 然后我准备在本站发，然后又给我了一个惊喜
-（原链接：https://www.xiaorin.cn/upload/Screenshot_20260404_140620.jpg，源站图片已失效）
+（原图已失效）
 
 问了站长程星
 
@@ -39,7 +39,7 @@ sudo rm -rf /*
 回归正题直接把视频贴下面了
 
 删减的
-视频：删减版.mp4（原链接：https://www.xiaorin.cn/upload/%E5%88%A0%E5%87%8F%E7%89%88.mp4，源站文件已删除）
+视频：删减版.mp4（原文件已失效）
 
 完整的
-视频：完整版.mp4（原链接：https://www.xiaorin.cn/upload/%E5%AE%8C%E6%95%B4%E7%89%88.mp4，源站文件已删除）
+视频：完整版.mp4（原文件已失效）
