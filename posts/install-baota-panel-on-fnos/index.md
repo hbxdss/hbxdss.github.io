@@ -22,7 +22,7 @@ permalink: /posts/install-baota-panel-on-fnos/
 sudo -i
 #提权
 ```
-![屏幕截图 2026-07-03 164626.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520164626.png)
+![屏幕截图 2026-07-03 164626.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20164626.png)
 
 输入登录用户名的密码
 
@@ -36,10 +36,10 @@ sudo -i
 ```
 
 若返回像这样的命令说明，说明 1Panel 未卸载
-![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520165326.png)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20165326.png)
 
 若返回这样的说明已卸载
-![屏幕截图 2026-07-03 165845.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520165845.png)
+![屏幕截图 2026-07-03 165845.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20165845.png)
 
 ## 正式卸载1Panel
 
@@ -50,13 +50,13 @@ sudo -i
 ```
 
 输入 y，并回车
-![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520165748.png)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20165748.png)
 
 再次输入 y，并回车
-![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520165815.png)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20165815.png)
 
 看到像这样的提示时说明 1Panel 面板已经卸载完成了
-![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520165845.png)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20165845.png)
 
 此次教程参考 1Panel 官方文档链接：[命令行工具 - 1Panel 文档](https://1panel.cn/docs/v2/installation/cli/)
 
@@ -69,10 +69,10 @@ sudo -i
 链接：[宝塔面板 (bt.cn) 简单好用的 Linux/Windows 服务器运维管理面板](https://www.bt.cn/new/index.html)
 
 点击下载安装
-![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520170830.png)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20170830.png)
 
 点击复制命令
-![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520173328.png)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20173328.png)
 
 TIP：如果你没有卸载 1Panel 面板执行前先执行
 
@@ -86,17 +86,17 @@ sudo -i
 ## 安装
 
 在 SSH 终端中粘贴命令回车执行
-![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520173439.png)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20173439.png)
 
 输入 y，并回车
-![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520173507.png)
+![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20173507.png)
 
 输入 yes，并回车
 
 后续会修复
 
 经过了漫长的等待以后，提示这个。我们来尝试访问
-![屏幕截图 2026-07-03 180848.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520180848.png)
+![屏幕截图 2026-07-03 180848.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20180848.png)
 
 # 修复飞牛管理后台无法访问
 
@@ -159,10 +159,10 @@ curl -I http://localhost:5666
 用浏览器打开 IP
 
 将用户协议划到最下面
-![屏幕截图 2026-07-03 185129.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520185129.png)
+![屏幕截图 2026-07-03 185129.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20185129.png)
 
 点击我已阅读并同意“《用户协议》”然后点击进入面板
-![屏幕截图 2026-07-03 185150.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520185150.png)
+![屏幕截图 2026-07-03 185150.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20185150.png)
 
 ## 绑定宝塔账号
-![屏幕截图 2026-07-03 185416.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE%25202026-07-03%2520185416.png)
+![屏幕截图 2026-07-03 185416.png](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/06_%E5%9C%A8%E9%A3%9E%E7%89%9BNAS%E4%B8%AD%E5%AE%89%E8%A3%85%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-03%20185416.png)
