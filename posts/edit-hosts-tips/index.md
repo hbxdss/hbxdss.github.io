@@ -132,7 +132,6 @@ IP （注意空格）域名
 ![](https://raw.giteeusercontent.com/hbxdss/temporary-warehouse/raw/master/%E7%9D%A1%E7%A5%9E%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0%E7%85%A7%E7%89%87/19_%E5%B0%8F%E5%B0%8Fhosts%E6%8B%BF%E4%B8%8B-%E4%BF%AE%E6%94%B9hosts/Screenshot_20260418_180540_com.github.xfalcon.vhosts.webp)
 
 接下来你只需要跟着箭头点就行（有一个图片集）
-（此处 6 张原图在原站已失效，无法显示）
 
 最后的最后：
 
