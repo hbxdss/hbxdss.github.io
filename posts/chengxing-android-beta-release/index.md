@@ -25,7 +25,7 @@ permalink: /posts/chengxing-android-beta-release/
 
 视频：主线路（网页到安卓APP-RdLO.mp4，原链接：https://www.xiaorin.cn/upload/%E7%BD%91%E9%A1%B5%E5%88%B0%E5%AE%89%E5%8D%93APP-RdLO.mp4，源站文件已删除）
 
-<video controls src="https://1840132105.v.123pan.cn/1840132105/%E7%A8%8B%E6%98%9F%E8%B5%84%E6%BA%90/%E7%BD%91%E9%A1%B5%E5%88%B0%E5%AE%89%E5%8D%93APP.mp4" style="width:100%"></video>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=116499025035439&amp;bvid=BV1tbRgB1EVp&amp;cid=38009111276&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
 
 # 最终成品下载地址
 

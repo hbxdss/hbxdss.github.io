@@ -52,7 +52,8 @@ PS：其实现在很多地区的运营商都是大内网了，过几周我处一
 现在所有的运营商都会封一些端口比如21、23、25、80、135、136、137、138、139、443、445、3389、8080
 
 # 视频
-<figure data-content-type="video" style="display: flex; flex-direction: column;"><video src="https://1840132105.cdn.123clouddisk.com/1840132105/31245256" width="100%" height="auto" controls="true"></video></figure>
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=117102753091198&amp;bvid=BV1m6bS6FEcA&amp;cid=40952073516&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
 
 # 最后一段
 

@@ -41,7 +41,8 @@ permalink: /posts/frp-intranet-penetration-tutorial/
 [https://hbxdss.lanzouw.com/irgyN43co5pe](https://hbxdss.lanzouw.com/irgyN43co5pe)
 
 ## Mobaxterm使用参考视频
-<figure data-content-type="video" style="display: flex; flex-direction: column;"><video src="https://1840132105.cdn.123clouddisk.com/1840132105/31191210" width="100%" height="auto" controls="true"></video></figure>
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=117138236967165&amp;bvid=BV1Z6816qEP5&amp;cid=41156413682&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
 
 ## Mobaxterm使用参考图文
 
@@ -327,7 +328,8 @@ sudo -i
 这样就完成了
 
 # 视频
-<figure data-content-type="video" style="display: flex; flex-direction: column;"><video src="https://1840132105.cdn.123clouddisk.com/1840132105/31575724" width="100%" height="auto" controls="true"></video></figure>
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=117138236967165&amp;bvid=BV1Z6816qEP5&amp;cid=41156413682&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
 
 # 最后一段
 

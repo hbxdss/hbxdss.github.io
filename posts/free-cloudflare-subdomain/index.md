@@ -109,7 +109,4 @@ permalink: /posts/free-cloudflare-subdomain/
 
 # 视频
 
-哔哩哔哩
-
-程星资源站
-<video controls src="https://1840132105.cdn.123clouddisk.com/1840132105/%E7%A8%8B%E6%98%9F%E8%B5%84%E6%BA%90/%E5%A6%82%E4%BD%95%E7%99%BD%E5%AB%96%E4%B8%80%E4%B8%AA%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D%E5%B9%B6%E6%89%98%E7%AE%A1%E5%88%B0Cloudflare.mp4" style="width:100%"></video>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=117364175733066&amp;bvid=BV1JMYP6FEKu&amp;cid=42359983159&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
