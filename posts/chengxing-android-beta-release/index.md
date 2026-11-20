@@ -23,27 +23,17 @@ permalink: /posts/chengxing-android-beta-release/
 
 接下来的内容文章你就不再赘述了，直接看我 b 站视频就行
 
-视频：主线路（网页到安卓APP-RdLO.mp4，原链接：https://www.xiaorin.cn/upload/%E7%BD%91%E9%A1%B5%E5%88%B0%E5%AE%89%E5%8D%93APP-RdLO.mp4，源站文件已删除）
+视频：主线路（网页到安卓APP，B 站同名视频）
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=116499025035439&amp;bvid=BV1tbRgB1EVp&amp;cid=38009111276&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
 
 # 最终成品下载地址
 
-
-    下载地址
-
+下载地址
 
 [程星博客_v0.0.0.APK](https://gitee.com/hbxdss/temporary-warehouse/releases/download/halo-attachments-v1/%E7%A8%8B%E6%98%9F%E5%8D%9A%E5%AE%A2_v0.0.0.APK)
 
-                程星资源
-
-
-
-
-
-
-
-
+程星资源
 
 软件需要激活后使用，bug 非常多。建议等后续更新
 

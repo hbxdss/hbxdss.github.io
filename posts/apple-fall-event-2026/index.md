@@ -56,4 +56,6 @@ permalink: /posts/apple-fall-event-2026/
 
 说实话，折叠屏的想法大家期待了很多年，如今苹果终于交出了答卷。但这个定价，注定只能面向一小部分高端用户。至于折叠的折痕、续航、软件适配这些实际问题，光看发布会演示是看不出来的。 不知道大家看完发布会，是觉得真香，还是觉得价格劝退？欢迎在评论区聊聊你的看法。
 
+## ▶️ 发布会全程回放
+
 <iframe src="//player.bilibili.com/player.html?isOutside=true&amp;aid=117252254862487&amp;bvid=BV14iY767ETp&amp;cid=41792439302&amp;p=1" width="100%" height="450px" frameborder="0" allowfullscreen="true" framespacing="0" style="display: inline-block"></iframe>
